@@ -1,0 +1,11 @@
+It is a Todo List App, where you can add, modify and delete your todo list.
+the main specifications are: 
+- Create  the following component
+    Addtask
+    ListTask
+    Task
+- Every task should have the following attributes: Id, description, isDone(click on the task)
+   The user should be:
+      Able to add a newTodo
+      Filter the tasks by (done/not)
+      Edit a task
